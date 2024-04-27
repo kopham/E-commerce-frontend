@@ -28,7 +28,7 @@ const Footer = () => {
                     <img src = {pintester_icon} alt = "" />
                 </div>
                 <div className = "footer-icons-container">
-                    <img src = {whatspp_icon} alt = "" />
+                    <img src = {whatsapp_icon} alt = "" />
                 </div>
             </div>
             <div className = "footer-copyright">
